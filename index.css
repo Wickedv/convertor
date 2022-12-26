@@ -1,0 +1,90 @@
+body {
+    margin: 0;   
+    text-align: center;
+    background: #6943FF;
+
+}
+
+#container
+{   font-family: 'Inter', sans-serif;
+    color: white;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bolder;
+}
+
+#numbers{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    width: 117px;
+    height: 83px;
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+    background: transparent;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+}
+::-webkit-input-placeholder{
+    color:white;
+    font-family: 'Inter', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder
+}
+#abc{
+    margin-top: 22px;
+    padding: 9px 27px;
+    width: 117px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+}
+
+#conversion
+{   color: #CCC1FF;
+    background: #1F2937;
+    padding: 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#length{
+    background: #273549;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+#len{
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#volume{
+     background: #273549;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+#vol{
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#mass{
+        background: #273549;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+#ma{
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
